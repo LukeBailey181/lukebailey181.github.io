@@ -1,0 +1,6 @@
+@article{schaeffer2024universal,
+  title={When Do Universal Image Jailbreaks Transfer Between Vision-Language Models?},
+  author={Schaeffer, Rylan and Valentine, Dan and Bailey, Luke and Chua, James and Eyzaguirre, Crist{\'o}bal and Durante, Zane and Benton, Joe and Miranda, Brando and Sleight, Henry and Hughes, John and others},
+  journal={arXiv preprint arXiv:2407.15211},
+  year={2024}
+}

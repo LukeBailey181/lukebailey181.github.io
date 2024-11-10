@@ -1,0 +1,6 @@
+@inproceedings{chai2023speedlimit,
+  title={SpeedLimit: Neural Architecture Search for Quantized Transformer Models},
+  author={Chai, Yuji and Bailey, Luke and Jin, Yunho and Ko, Glenn and Karle, Matthew and Brooks, David and Wei, Gu-Yeon and Kung, H},
+  booktitle={Workshop on Efficient Systems for Foundation Models@ ICML2023},
+  year={2023}
+}

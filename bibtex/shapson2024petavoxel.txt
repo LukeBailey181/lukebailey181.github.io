@@ -1,0 +1,10 @@
+@article{shapson2024petavoxel,
+  title={A petavoxel fragment of human cerebral cortex reconstructed at nanoscale resolution},
+  author={Shapson-Coe, Alexander and Januszewski, Micha{\l} and Berger, Daniel R and Pope, Art and Wu, Yuelong and Blakely, Tim and Schalek, Richard L and Li, Peter H and Wang, Shuohong and Maitin-Shepard, Jeremy and others},
+  journal={Science},
+  volume={384},
+  number={6696},
+  pages={eadk4858},
+  year={2024},
+  publisher={American Association for the Advancement of Science}
+}

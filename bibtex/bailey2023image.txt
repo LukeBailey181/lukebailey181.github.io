@@ -1,0 +1,6 @@
+@article{bailey2023image,
+  title={Image Hijacks: Adversarial Images can Control Generative Models at Runtime},
+  author={Bailey, Luke and Ong, Euan and Russell, Stuart and Emmons, Scott},
+  journal={arXiv preprint arXiv:2309.00236},
+  year={2023}
+}

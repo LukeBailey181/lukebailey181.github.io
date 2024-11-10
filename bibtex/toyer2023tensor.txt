@@ -1,0 +1,6 @@
+@article{toyer2023tensor,
+  title={Tensor trust: Interpretable prompt injection attacks from an online game},
+  author={Toyer, Sam and Watkins, Olivia and Mendes, Ethan Adrian and Svegliato, Justin and Bailey, Luke and Wang, Tiffany and Ong, Isaac and Elmaaroufi, Karim and Abbeel, Pieter and Darrell, Trevor and others},
+  journal={arXiv preprint arXiv:2311.01011},
+  year={2023}
+}

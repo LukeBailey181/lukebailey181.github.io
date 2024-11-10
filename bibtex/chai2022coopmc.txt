@@ -1,0 +1,8 @@
+@inproceedings{chai2022coopmc,
+  title={CoopMC: Algorithm-architecture co-optimization for markov chain monte carlo accelerators},
+  author={Chai, Yuji and Ko, Glenn G and Bailey, Luke and Brooks, David and Wei, Gu-Yeon and others},
+  booktitle={2022 IEEE International Symposium on High-Performance Computer Architecture (HPCA)},
+  pages={38--52},
+  year={2022},
+  organization={IEEE}
+}=
