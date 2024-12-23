@@ -67,3 +67,27 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+
+    header {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .profile-section {
+        margin-bottom: 20px;
+    }
+
+    .bio-section {
+        text-align: left;
+        width: 100%;
+    }
+}
+
+.award {
+    color: red;
+}
