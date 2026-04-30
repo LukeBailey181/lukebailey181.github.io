@@ -1,0 +1,6 @@
+@article{casper2025practical,
+  title={Practical principles for AI cost and compute accounting},
+  author={Casper, Stephen and Bailey, Luke and Schreier, Tim},
+  journal={arXiv preprint arXiv:2502.15873},
+  year={2025}
+}

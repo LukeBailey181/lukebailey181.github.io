@@ -1,0 +1,6 @@
+@article{casper2025ai,
+  title={The AI agent index},
+  author={Casper, Stephen and Bailey, Luke and Hunter, Rosco and Ezell, Carson and Cabal{\'e}, Emma and Gerovitch, Michael and Slocum, Stewart and Wei, Kevin and Jurkovic, Nikola and Khan, Ariba and others},
+  journal={arXiv preprint arXiv:2502.01635},
+  year={2025}
+}

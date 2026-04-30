@@ -1,0 +1,6 @@
+@article{bailey2026scaling,
+  title={Scaling Self-Play with Self-Guidance},
+  author={Bailey, Luke and Wen, Kaiyue and Dong, Kefan and Hashimoto, Tatsunori and Ma, Tengyu},
+  journal={arXiv preprint arXiv:2604.20209},
+  year={2026}
+}

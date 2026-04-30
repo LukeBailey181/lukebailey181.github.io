@@ -1,0 +1,6 @@
+@article{staufer20262025,
+  title={The 2025 AI agent index: Documenting technical and safety features of deployed agentic AI systems},
+  author={Staufer, Leon and Feng, Kevin and Wei, Kevin and Bailey, Luke and Duan, Yawen and Yang, Mick and Ozisik, A Pinar and Casper, Stephen and Kolt, Noam},
+  journal={arXiv preprint arXiv:2602.17753},
+  year={2026}
+}

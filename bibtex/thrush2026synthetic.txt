@@ -1,0 +1,6 @@
+@article{thrush2026synthetic,
+  title={Synthetic Data for any Differentiable Target},
+  author={Thrush, Tristan and Park, Sung Min and Brunborg, Herman and Bailey, Luke and Roed, Marcel and Band, Neil and Potts, Christopher and Hashimoto, Tatsunori},
+  journal={arXiv preprint arXiv:2604.08423},
+  year={2026}
+}
