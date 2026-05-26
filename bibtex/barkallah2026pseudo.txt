@@ -1,0 +1,6 @@
+@article{barkallah2026pseudo,
+  title={Pseudo-Formalization for Automatic Proof Verification},
+  author={Barkallah, Slim and Bailey, Luke and Wen, Kaiyue and Abouzaid, Mohammed and Ma, Tengyu},
+  journal={arXiv preprint arXiv:2605.20531},
+  year={2026}
+}
