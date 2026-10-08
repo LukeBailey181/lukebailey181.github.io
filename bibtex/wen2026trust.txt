@@ -1,0 +1,6 @@
+@article{wen2026trust,
+  title={Trust the Critic More},
+  author={Wen, Kaiyue and Bailey, Luke and Mahankali, Arvind and Ma, Tengyu},
+  journal={arXiv preprint arXiv:2609.39247},
+  year={2026}
+}
