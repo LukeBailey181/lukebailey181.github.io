@@ -1,0 +1,6 @@
+@article{vanadrichem2026hinted,
+  title={Hinted Scaling Laws},
+  author={van Adrichem, Suze and Bailey, Luke and Kuditipudi, Rohith and Ye, Christine and Band, Neil and Ahmed, Ahmed and Duchi, John and Liang, Percy and Hashimoto, Tatsunori},
+  journal={arXiv preprint arXiv:2611.02270},
+  year={2026}
+}
